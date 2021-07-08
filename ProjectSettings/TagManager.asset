@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - texttag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - points
+  - Water
+  - UI
+  - background
+  - text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 4254126951
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: point
+    uniqueID: 3206401447
+    locked: 0
